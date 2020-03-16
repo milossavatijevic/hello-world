@@ -1,3 +1,3 @@
 # hello-world
 
-Only few words.
+Just practice
